@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: locadora-livros-api
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Wanderley Patrício
+Implementation-Vendor-Id: com.br.java.locadora
+Build-Jdk: 1.8.0_321
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/locadora-livros-api
+Created-By: Maven Integration for Eclipse
+
